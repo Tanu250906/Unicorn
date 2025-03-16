@@ -1,5 +1,5 @@
 What is Unicorn? 🦄🎬
-Unicorn is an interactive chatbot that helps users find the perfect drama based on their preferences. Instead of simply searching for dramas, users take a fun quiz, answering questions about their favorite genres, languages, mood, and platforms. Based on their responses, Unicorn uses AI to suggest the best dramas tailored to their taste.
+Unicorn is an interactive website that helps users find the perfect drama based on their preferences. Instead of simply searching for dramas, users take a fun quiz, answering questions about their favorite genres, languages, mood, and platforms. Based on their responses, Unicorn uses AI to suggest the best dramas tailored to their taste.
 
 How It Works:
 User takes a short quiz (e.g., preferred genre, language, mood).
